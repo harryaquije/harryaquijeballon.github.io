@@ -1,0 +1,98 @@
+/* Make listing single-column */
+.listing {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Each talk box */
+.listing-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+/* Date at top right */
+.listing-item .date {
+  text-align: right;
+  font-weight: bold;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Title */
+.listing-item .title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 0.2rem;
+}
+
+/* Conference below title */
+.listing-item .conference {
+  font-style: italic;
+  color: #333;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* Categories as boxes */
+.listing-item .categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.5rem;
+}
+
+.listing-item .categories span {
+  background: #007acc;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.paper-cta {
+  margin-top: 0.75rem;
+}
+
+.paper-cta a {
+  display: inline-block;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #333;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.paper-cta a:hover {
+  background: #333;
+  color: #fff;
+}
+
+.talk-image {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.talk-figure {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.talk-figure .figure-title {
+  display: block;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #000;
+  text-align: center;
+}
+
+.talk-figure + p {
+  margin-top: 1.5rem; /* add space after the figure block */
+}

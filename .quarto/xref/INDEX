@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "b929adf8"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "67f3d795"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "7ef5c6c9"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "b3b393da"
+  },
+  "projects/index.qmd": {
+    "index.html": "6e264c50"
+  },
+  "conferences.qmd": {
+    "conferences.html": "0d1cf280"
+  },
+  "blog/index.qmd": {
+    "index.html": "80ad6ce0"
+  },
+  "talks/index.qmd": {
+    "index.html": "9daea7ec"
+  },
+  "talks/its_2023/index.qmd": {
+    "index.html": "9385cf6e"
+  },
+  "talks/its_2024/index.qmd": {
+    "index.html": "c3f1261f"
+  },
+  "talks/its_2025/index.qmd": {
+    "index.html": "20dbba68"
+  },
+  "conferences/index.qmd": {
+    "index.html": "509452fd"
+  },
+  "now/index.qmd": {
+    "index.html": "c1118252"
+  },
+  "blog/entry_a/index.qmd": {
+    "index.html": "ca44e64d"
+  },
+  "blog/decisions_ai/index.qmd": {
+    "index.html": "d635e521"
+  },
+  "blog/green/index.qmd": {
+    "index.html": "17c541e6"
+  },
+  "blog/green_2/index.qmd": {
+    "index.html": "529b9853"
+  }
+}

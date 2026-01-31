@@ -1,0 +1,40 @@
+---
+title: "Beyond financial inclusion: Does mobile money drive GDP growth?"
+date: 2023-11-26
+conference: "The 16th International Telecommunications Society Asia-Pacific Regional Conference"
+summary: "Mobile money has become a mainstream financial service."
+categories: ["digital financial inclusion", "mobile money", "economic growth", "development economics"]
+paper: "https://www.gsmaintelligence.com/research/mobile-money-how-digital-payments-have-impacted-economic-growth"
+author:
+  - Harry Aquije Ballon
+  - Kalvin Bahia
+  - Pau Castells
+---
+
+Mobile money has become a mainstream financial service across many low- and middle-income countries (LMICs). Especially in countries where a large proportion of the population is either unbanked or underserved by traditional financial institutions. In 2021, one third of adults in Sub-Saharan Africa had a mobile money account and in 11 African countries, more adults had a mobile money account than had a financial institution account. The Covid-19 pandemic also led to a significant expansion of mobile money services, as people switched from cash to digital payments during periods of social distancing.
+
+<div class="talk-figure">
+  <div class="figure-title">Counties with mobile money deployments in the 2013-2022 period</div>
+
+  ![Source: GSMA Global Adoption Survey on Mobile Money 2022](mm_countries_binary_v6.png){.talk-image}
+
+</div>
+
+By leveraging a unique dataset that measures mobile money adoption and usage across 133 countries over a 10-year period between 2013 and 2022, we find that mobile money had a significant impact on GDP growth. On average, **a 10 percentage point increase in mobile money adoption increased GDP by 0.4–1%**. Furthermore, the analysis shows that the impact is enhanced with more sophisticated and intense usage of different mobile money products, particularly those other than P2P, cash-in and cash-out, and that network effects play an important role.
+
+Based on predictions from our econometric specification, we find that at the end of 2022, mobile money contributed almost $600 billion (1.5%) to GDP in low- and middle-income countries. Given the extensive empirical literature that has demonstrated the microeconomic impacts of mobile money, particularly in terms of risk coping and consumption smoothing, our findings show that if adoption is high enough, these micro-effects also have an impact at the macro-level, thereby lifting upwards the trajectory of long-term economic growth.
+
+<div class="talk-figure">
+  <div class="figure-title">Simulated impact of mobile money on GDP in mobile money countries, 2013-2022</div>
+
+  ![Source: GSMA Intelligence](1a_gdp_impact_mm_countries.png){.talk-image}
+
+</div>
+
+Digital financial inclusion can drive long-term GDP growth, just as traditional financial services have been shown to do. There are still 1.4 billion adults worldwide, or almost one quarter of the adult population, who are unbanked. Moreover, it is also important not just increasing mobile money adoption but also the development of a strong digital financial ecosystem and greater financial deepening. Our results provide further evidence of the link between enabling regulation and mobile money adoption, which has been shown in previous studies. Lastly, the findings highlight the importance of tackling the usage and coverage gaps. Mobile money is only accessible if individuals can access and use a mobile device, while mobile internet can offer a broader range of financial products and services than basic mobile access.
+
+::: {.paper-cta}
+[📄 Read the study]({{< meta paper >}}){target="_blank" rel="noopener"}
+:::
+
+<!-- ![Conference presentation photo](IMG_1399.jpg){.talk-image} -->

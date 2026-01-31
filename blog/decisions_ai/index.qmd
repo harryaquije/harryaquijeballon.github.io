@@ -1,0 +1,52 @@
+---
+title: "Decisions and the future of AI"
+subtitle: "The problem of human preferences"
+date: 2025-09-21
+conference: ""
+categories: ["artificial intelligence", "technology", "choices"]
+author:
+  - Harry Aquije Ballon
+---
+  
+<div class="talk-figure">
+  <div class="figure-title"></div>
+  
+  ![Source: Image generated using Stable Diffusion 3](2081948413.png){.talk-image}
+
+</div>
+
+## Every decision matters
+  
+Every day we face decisions about small things and events that can change our lives. How to make the right choice can be explained by self-interest or as stated by the rational model of economics, consumers seek to maximize preferences.
+
+As we interact in society, we want to compare preferences across individuals and establish rankings. This can serve different purposes, from a marketing point of view, predicting people’s choices allows the design of products matching those preferences and that are more appealing to customers. For policymakers understanding individual preferences allows the design of policies that bring greater value across the population.
+
+Artificial intelligence (AI) is the science to teach machines human-like abilities and with the launch of ChatGPT and similar models — in the last few years — anyone with access to the internet can benefit from it. If used correctly AI can boost productivity and lead to economic progress like never before; however, the risks match the potential gains. As machines become more powerful it can be a risk that they will surpass us.
+
+The focus has been on large language models that can create human-like content. Originally, researchers trained these models to do specific tasks. For example, face recognition or playing Go. This is known as narrow AI, and on this topic, AI systems have outperformed the best humans. As happened in March 2016 when AlphaGo from DeepMind defeated a world champion, a decade before experts thought possible.
+
+## How to create beneficial AI 
+
+AI is advancing faster than any previous technology fuelled by major investments across the world. This evolution could potentially reach what is known as artificial general intelligence, that is the state in which machines can do all human activities. It is someone you can talk to and can do anything, not just one specific thing. We are not there yet, but in this process, machines will face decisions just as we do.
+
+AI expert Stuart Russel in his book Human Compatible AI and the Problem of Control addresses this problem. He proposes that AI researchers, in thinking about how to create beneficial AI, must follow three principles.
+
+1. The machine’s only objective is to maximize the realization of human preferences.  
+2. The machine is initially uncertain about what those preferences are.  
+3. The ultimate source of information about human preferences is human behavior.  
+
+Human preferences are the foundation for these principles, which takes us back to the individuals’ choice process adding the complexity that machines should learn to understand us. They should do this based on the observation of our choices, as we do with the rest of the world. Then, they go back to the first principle.
+
+## Conclusion
+
+We are entering the most revolutionary period ever that will give us a unique chance to shape the world for the better. Progress in AI will continue and speed up in the coming years representing an avenue of growth for advanced and developing economies.
+
+To ensure AI is beneficial for humans, we need interdisciplinary cooperation between social sciences, philosophy and technology development to set the basis for the new challenges to come and to put humans at the centre of decision-making. We needed this balance throughout history, making beneficial AI will need it too. It's a balance between selfish and selfless.
+
+## References
+
+McFadden, D., 2001. Economic choices. American economic review, 91(3), pp.351-378.
+
+Russell, S., 2019. Human compatible: AI and the problem of control. Penguin UK.
+
+Suleyman, Mustafa and Michael, Bhaskar. 2023. The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma. Crown.

@@ -1,0 +1,17 @@
+---
+title: <p class="center-text">Talks</p>
+author: ""
+comments: false
+page-layout: full
+listing:
+  contents: "."
+  sort: "date desc"
+  type: "default"
+  date-format: "iso"
+  fields: [date, title, conference, categories]
+  field-display-names:
+    paper: "Paper"
+format:
+  html:
+    css: talks.css
+---

@@ -1,0 +1,19 @@
+---
+title: "Harry Aquije Ballon"
+subtitle: "Economist"
+image: IMG_3272.jpg
+toc: false
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/harryaquije
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/harryaquije/
+---
+
+I am interested in how digital technologies can contribute to a better world. By using - economic theory and empirical methods - I provide evidence to inform policy. I have experienced on development economics and digital technologies with focus on productivity, innovation, and inclusive growth. On my free time I like running and dancing salsa.

@@ -1,0 +1,52 @@
+---
+title: "From Physical to Digital Things: What does IoT mean for economic growth?"
+date: 2024-06-23
+conference: "The 24th Biennial Conference of the International Telecommunications Society"
+summary: "The potential benefits of connecting the physical world to the internet are vast, but not well understood."
+categories: ["economic growth", "IoT", "digital technologies"]
+paper: "https://www.econstor.eu/handle/10419/302494"
+author:
+  - Harry Aquije Ballon
+  - Kalvin Bahia
+  - Pau Castells
+---
+
+While mobile technologies have already connected billions of people, the Internet of Things (IoT) is now adding all kinds of devices to the digital ecosystem. The potential benefits of connecting the physical world to the internet are vast, but not well understood, and with increasing adoption
+and use cases there is a need to better understand the potential economic impacts these could
+enable.
+
+IoT is about connecting everything to the internet -with applications for consumers and businesses- across all economic sectors. According to GSMA Intelligence, at the end of 2023 there were 21 billion IoT connections. These are expected to almost double by 2030. By connecting the physical world to the internet, IoT can impact economic growth through similar channels that ICTs benefit households and industries. That is in the form of spillovers leading to greater productivity, a more efficient allocation of resources, and new opportunities for innovation.
+
+<div class="talk-figure">
+  <div class="figure-title">IoT connections per capita in 2022</div>
+
+  ![Source: GSMA Intelligence](iot_countries_v1.png){.talk-image}
+
+</div>
+
+This study provides a contribution to quantify the contribution of IoT to economic growth. By leveraging a unique dataset that measures IoT connections by vertical industry across 163 countries between 2010 and 2022, we find that IoT made a significant contribution to GDP growth.
+
+On average, **a 10 percentage point increase in IoT connections per inhabitant increased GDP by 0.7% in low-and-middle income countries (LMICs) and 0.5% in high-income countries (HICs)**. We find that this impact is primarily driven by enterprise IoT, accounting for 80% of the total effect, while consumer IoT contributed 20%.
+
+These results have important implications for policymakers. Enterprise IoT has gained momentum
+in recent years and by 2030, more than 60% of total connections will be enterprise IoT connections.
+Governments can implement policies to stimulate IoT adoption by businesses, which will enhance
+competitiveness and benefit the wider economy. Moreover, some industries were found to drive
+larger economic benefits, for example manufacturing, financial and insurance activities and the
+services sector.
+
+<div class="talk-figure">
+  <div class="figure-title">IoT connections per capita, by verticals in the 2010-2022, period</div>
+
+  ![Source: GSMA Intelligence](1_iot_pen_stack.png){.talk-image}
+
+</div>
+
+One of the key components that will support the development of IoT use cases across industries is
+a better and more reliable connectivity. In this context, 5G can unlock the IoT benefits not available with 4G or previous mobile generations, these can be grouped under three main categories: enhanced mobile broadband (eMBB), massive IoT (known as mMTC), and critical communications.
+
+We assume that IoT contributes to the economy in the form of productivity spillovers, similar to the more traditional ICTs, but the effects of IoT can be different especially considering the rapid advancement of new technologies, and the interaction of IoT with AI, cloud computing, and edge computing, giving the possibility to introduce changes in the economy not seen before.
+
+::: {.paper-cta}
+[📄 Read the paper]({{< meta paper >}}){target="_blank" rel="noopener"}
+:::

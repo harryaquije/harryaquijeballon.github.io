@@ -1,0 +1,28 @@
+{
+  "listingMap": {
+    "blog\\decisions_ai\\index.qmd": [
+      ".."
+    ],
+    "blog\\green\\index.qmd": [
+      ".."
+    ],
+    "blog\\green_2\\index.qmd": [
+      ".."
+    ],
+    "blog\\index.qmd": [
+      "."
+    ],
+    "talks\\index.qmd": [
+      "."
+    ],
+    "talks\\its_2023\\index.qmd": [
+      ".."
+    ],
+    "talks\\its_2024\\index.qmd": [
+      ".."
+    ],
+    "talks\\its_2025\\index.qmd": [
+      ".."
+    ]
+  }
+}

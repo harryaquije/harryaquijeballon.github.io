@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Harry Aquije Ballon"
+  navbar:
+    title: Harry Aquije Ballon
+    right:
+      - href: talks/index.qmd
+        text: Talks
+        icon: megaphone
+      - href: blog/index.qmd
+        text: Blog
+      - href: now/index.qmd
+        text: Now
+
+publish:
+  gh-pages:
+    repo: harryaquije/harryaquijeballon.github.io
+    branch: gh-pages
+
+format:
+  html:
+    theme: [cosmo, styles.scss]

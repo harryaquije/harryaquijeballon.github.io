@@ -1,0 +1,14 @@
+# Date format
+date-format: "YYYY-MM-DD"
+
+listing:
+  type: default
+  contents: "."           # current folder and subfolders
+  sort: date desc
+  fields: [date, title, conference, categories]  # do NOT include authors
+  page-size: 10
+
+format: 
+  html:
+    template-partials:
+      - title-block.html

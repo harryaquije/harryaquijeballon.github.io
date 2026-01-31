@@ -1,0 +1,48 @@
+---
+title: "Towards better mobile quality of service: Assessing the role of regulation"
+date: 2025-06-29
+conference: "ITS 33rd European Conference 2025"
+summary: "Competition is the main driver of improvements of QoS over the last decade."
+categories: ["QoS", "Regulation", "Telecommunications"]
+paper: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680021"
+author:
+  - Harry Aquije Ballon
+  - Kalvin Bahia
+  - Pau Castells
+  - Juan Jung
+---
+
+Quality of service (QoS) in mobile connectivity has significantly improved over the last decade. Ensuring that consumers enjoy a good quality of network service is a priority for both telecoms operators and policymakers. For operators, QoS is a key differentiator in competitive markets. Regulations around QoS have been evolving for the last decade, with notable developments in recent years.
+
+There has been an increasing regulation tendency over the years. At the end of 2022, 75% of countries had QoS regulation on mobile broadband. Using data from the World Bank Income Classification we found a negative correlation between the income level of a country and the introduction of QoS regulations. In general, richer countries tend to have less QoS regulations over the last ten years.
+
+<div class="talk-figure">
+  <div class="figure-title">Mobile QoS regulations by Income Level, 2014-2024</div>
+
+  ![Source: Authors' analysis based on ITU and WB data](reg_income_wb_1424_2.png){.talk-image}
+
+</div>
+
+
+We empirically analysed the main drivers of QoS improvements in mobile communications for a global panel of 187 countries in the 2011-2023 period. Our models compile some of the most common QoS metrics for mobile broadband (such as download and upload speed, and latency), our independent variables are spectrum, technology generation and devices, national ICT infrastructure, other types of regulation, plus an extensive set of controls. Our empirical strategy consists in linear panel data models using the two-way fixed-effects (TWFE) estimator.
+
+We evaluate the impact of the introduction of regulation on QoS performance, using a binary treatment variable obtained from ITU with covering most countries in the world from 2011 to 2022. We use novel difference-in-difference techniques including Sun and Abraham (2021), Borusyak et al. (2024), and the De Chaisemartin and d’Haultfoeuille (2020). The results indicate that there is no statistically significant effect at any period after the introduction of regulation.
+
+<div class="talk-figure">
+  <div class="figure-title">Effect of the introduction of QoS regulation on download speeds</div>
+
+  ![Source: Authors' analysis](did_global_v2.png){.talk-image}
+
+</div>
+
+We find that competitive markets have been crucial to improvements in mobile QoS over the past decade. In contrast, we do not find significant evidence that introducing QoS obligations alone has improved outcomes. Moreover, mobile QoS improvements over the period were largely explained by:
+
+- ⚡ **Adoption of new mobile technology generations** (4G and 5G, in particular)  
+- 📱 **Better devices and smartphones**  
+- 📶 **Increase in available spectrum** to roll out each technology  
+- 🌐️ **Expansion of fibre network footprint** in the country
+
+::: {.paper-cta}
+[📄 Read the working paper]({{< meta paper >}}){target="_blank" rel="noopener"}
+:::
+
