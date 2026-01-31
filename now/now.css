@@ -1,0 +1,16 @@
+/* Full-width box for the Now title */
+.now-box {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background: #f9f9f9;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.now-box h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
